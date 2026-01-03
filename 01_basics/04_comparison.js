@@ -19,6 +19,7 @@ let myObj = {
 
 const myFunction = function()
 {
-    console.log("hello world");
+    // console.log("hello world");
     
 }
+//primitive datatypes get stored in stack and copies are generated. no primitive like array and object get stored in heap and thus it gets changed directly in memory
